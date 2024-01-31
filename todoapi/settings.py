@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-sye242on!lc#97m^!=fvk_wfvb5dj_a(hjwpi8q(=!y=__i%l!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'jscoding.de'
+]
 
 
 # Application definition
